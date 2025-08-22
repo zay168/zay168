@@ -7,7 +7,7 @@ Next-Gen Web Developer
 Next-Gen Web Developer building interactive and innovative web solutions with good coding skills.
 
 * 🌍  I'm based in Paris
-* ✉️  You can contact me at [alsarrafzayd@mail.comg](mailto:alsarrafzayd@gmail.com)
+* ✉️  You can contact me at [alsarrafzayd@gmail.com](mailto:alsarrafzayd@gmail.com)
 * 🧠  I'm currently learning React and Python
 * 👥  I'm looking to collaborate on any project
 * 💬  Ask me about I am passionate about coding and building innovative web solutions.
