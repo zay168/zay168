@@ -37,11 +37,12 @@
   <br />
   <h3>📊 GitHub Stats</h3>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zay168&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zay168&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <a href="https://github.com/zay168">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zay168&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="150" />
+    </a>
+    <a href="https://github.com/zay168">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zay168&layout=compact&langs_count=8&title_color=84cc16&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" height="150" />
+    </a>
   </p>
   <br />
   
