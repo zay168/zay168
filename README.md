@@ -41,7 +41,7 @@
 
   <div align="center">
     <a href="https://github.com/zay168">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zay168&theme=dracula&hide_border=true&background=0d1117" alt="Streak" height="160" />
+      <img src="https://streak-stats.demolab.com?user=zay168&theme=dracula&hide_border=true&background=0d1117" alt="Streak" height="160" />
     </a>
 
   </div>
