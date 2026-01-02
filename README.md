@@ -49,13 +49,9 @@
   <br />
 
 
-  <!-- Snake Game -->
-  <h3 style="font-family: monospace;">> Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <!-- 3D Contributions -->
+  <h3 style="font-family: monospace;">> 3D Activity</h3>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
   <br />
 
