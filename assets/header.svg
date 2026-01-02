@@ -1,0 +1,106 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      
+      .bg {
+        fill: #0d1117;
+      }
+      
+      .terminal-window {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 2;
+      }
+
+      .terminal-header {
+        fill: #21262d;
+      }
+
+      .dot {
+        r: 6;
+      }
+      .red { fill: #ff5f56; }
+      .yellow { fill: #ffbd2e; }
+      .green { fill: #27c93f; }
+      
+      .text-body {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 16px;
+        fill: #c9d1d9;
+      }
+
+      .keyword { fill: #ff7b72; }
+      .string { fill: #a5d6ff; }
+      .function { fill: #d2a8ff; }
+      .number { fill: #79c0ff; }
+      .comment { fill: #8b949e; font-style: italic; }
+      
+      .cursor {
+        fill: #58a6ff;
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      @keyframes type {
+        0% { width: 0; }
+        100% { width: 100%; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg" />
+  
+  <!-- Terminal Window -->
+  <rect x="50" y="50" width="700" height="300" rx="10" class="terminal-window" />
+  <path d="M50 60 Q50 50 60 50 L740 50 Q750 50 750 60 L750 80 L50 80 Z" class="terminal-header" />
+  
+  <!-- Traffic Lights -->
+  <circle cx="80" cy="65" class="dot red" />
+  <circle cx="105" cy="65" class="dot yellow" />
+  <circle cx="130" cy="65" class="dot green" />
+
+  <!-- Code Content -->
+  <g transform="translate(80, 120)">
+    <!-- Line 1 -->
+    <text x="0" y="0" class="text-body">
+      <tspan class="keyword">const</tspan> <tspan class="function">developer</tspan> = {
+    </text>
+    
+    <!-- Line 2 -->
+    <text x="30" y="30" class="text-body">
+      name: <tspan class="string">"Zayd"</tspan>,
+    </text>
+
+    <!-- Line 3 -->
+    <text x="30" y="60" class="text-body">
+      age: <tspan class="number">15</tspan>,
+    </text>
+
+    <!-- Line 4 -->
+    <text x="30" y="90" class="text-body">
+      passion: <tspan class="string">"Fullstack Excellence"</tspan>,
+    </text>
+
+    <!-- Line 5 -->
+    <text x="30" y="120" class="text-body">
+      stack: [<tspan class="string">"Python"</tspan>, <tspan class="string">"HTML"</tspan>, <tspan class="string">"CSS"</tspan>]
+    </text>
+
+    <!-- Line 6 -->
+    <text x="0" y="150" class="text-body">
+      };
+    </text>
+
+    <!-- Line 7: The command -->
+    <text x="0" y="200" class="text-body">
+      <tspan class="keyword">$</tspan> start-project <tspan class="string">--future</tspan><rect x="230" y="-12" width="10" height="18" class="cursor" />
+    </text>
+  </g>
+
+</svg>

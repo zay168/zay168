@@ -1,56 +1,69 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
-  <h1 align="center">Hi, I'm Zayd Al Sarraf 👋</h1>
-  
-  <h3 align="center">Next-Gen Web Developer 🚀</h3>
-  
-  <p align="center">
-    Building interactive and innovative web solutions with passion.
-    <br />
-    Based in <b>Paris</b> 🌍
-  </p>
-  
+
+  <!-- Terminal Style Header -->
+  <img src="./assets/header.svg" width="100%" alt="Header" />
+
+  <br />
+
+  <!-- Clean Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+Modern+Technology;15+y%2Fo+Developer+base+in+Paris;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+
+  <br />
+  <br />
+
+  <!-- Socials - Minimalist -->
   <p align="center">
     <a href="mailto:alsarrafzayd@gmail.com">
-      <img src="https://img.shields.io/badge/Email-alsarrafzayd%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-alsarrafzayd%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.github.com/zay168">
-      <img src="https://img.shields.io/github/followers/zay168?logo=github&style=flat-square&color=24292e&labelColor=555555" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/zay168?logo=github&style=for-the-badge&color=21262d&labelColor=161b22" alt="Followers" />
     </a>
   </p>
+
   <br />
-  <h3>🧠 Technologies</h3>
-  <p align="center">
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="50" height="50" style="margin: 0 10px;" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="50" height="50" style="margin: 0 10px;" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="50" height="50" style="margin: 0 10px;" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="50" height="50" style="margin: 0 10px;" />
-    </a>
-  </p>
-  <br />
-  <h3>📊 GitHub Stats</h3>
-  <p align="center">
-    <a href="https://github.com/zay168">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zay168&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="150" />
-    </a>
-    <a href="https://github.com/zay168">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zay168&layout=compact&langs_count=8&title_color=84cc16&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" alt="Top Languages" height="150" />
-    </a>
-  </p>
-  <br />
-  
-  <h3>🤝 Connect</h3>
+
+  <!-- Tech Stack - Clean & Serious -->
+  <h3 style="font-family: monospace;">> Technologies</h3>
   
   <p align="center">
-    <a href="https://www.github.com/zay168" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="40" height="40" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git&perline=7&theme=dark" alt="My Skills" />
     </a>
   </p>
+
+  <br />
+
+  <!-- Stats - Dracula Theme (Dark/Pro) -->
+  <h3 style="font-family: monospace;">> Metrics</h3>
+
+  <div align="center">
+    <a href="https://github.com/zay168">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zay168&theme=dracula&hide_border=true&background=0d1117" alt="Streak" height="160" />
+    </a>
+
+  </div>
+
+  <br />
+
+
+  <!-- Snake Game -->
+  <h3 style="font-family: monospace;">> Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zay168/zay168/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <br />
+
+  <p align="center" style="color: #8b949e; font-family: monospace;">
+    // coding the future, one line at a time.
+  </p>
+  
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=&fontSize=0" width="100%" />
+
 </div>
