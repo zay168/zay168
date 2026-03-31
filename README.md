@@ -25,6 +25,26 @@
 
   <br />
 
+  <h3 style="font-family: monospace;">> Featured project</h3>
+
+  <p align="center">
+    <a href="https://github.com/zay168/ossify">
+      <img src="https://img.shields.io/badge/ossify-repo%20trust%20doctor-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="ossify" />
+    </a>
+    <a href="https://ossify-react.netlify.app/ossify/">
+      <img src="https://img.shields.io/badge/Live%20Landing-open-21262d?style=for-the-badge&logo=netlify&logoColor=white" alt="Live landing" />
+    </a>
+    <a href="https://github.com/zay168/ossify/releases">
+      <img src="https://img.shields.io/badge/Releases-latest-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Releases" />
+    </a>
+  </p>
+
+  <p align="center" style="max-width: 780px; margin: 0 auto; color: #8b949e; font-family: monospace;">
+    ossify is a Rust CLI that audits repository trust signals, checks workflow hygiene, and scaffolds the missing files that make an open-source project feel ready to adopt.
+  </p>
+
+  <br />
+
   <!-- Tech Stack - Clean & Serious -->
   <h3 style="font-family: monospace;">> Technologies</h3>
   
