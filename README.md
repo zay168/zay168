@@ -6,7 +6,7 @@ High-school student at Collège Sévigné (Paris), passionate about AI and code.
 
 **charge-scolaire** — My current main project: an AI layer designed to help students manage their academic workload. The repository is kept **private for now** while the API integrations and authentication surface are hardened against abuse — opening it up would expose API tokens and vendor endpoints before the security model is ready.
 
-**Lucid-project** — A relaxation app designed to help users unwind and regain calm. Currently **private** while the product is still being shaped.
+**[Lucid](https://lucid-irl.netlify.app/)** — A mental-health web app grounded in CBT: capture an anxious thought, lock it away for a chosen delay, then re-evaluate it once you've had time to cool. The AI analysis runs 100% locally — no data ever leaves the device. [Live app](https://lucid-irl.netlify.app/) · source kept private.
 
 **[ossify](https://github.com/zay168/ossify)** — Rust CLI that audits a repository's trust signals and scaffolds the missing files that make an open-source project feel ready to adopt. Ships a native installer with no Rust toolchain required. [Live site](https://ossify-react.netlify.app/ossify/).
 
