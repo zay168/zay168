@@ -1,85 +1,21 @@
-<div align="center">
+# zay168
 
-  <!-- Terminal Style Header -->
-  <img src="./assets/header.svg" width="100%" alt="Header" />
+High-school student at Collège Sévigné (Paris), passionate about AI and code. I build CLI tools, research prototypes, and full-stack web apps.
 
-  <br />
+## Featured projects
 
-  <!-- Clean Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+Modern+Technology;15+y%2Fo+Developer+base+in+Paris;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+**[ossify](https://github.com/zay168/ossify)** — Rust CLI that audits a repository's trust signals and scaffolds the missing files that make an open-source project feel ready to adopt. Ships a native installer with no Rust toolchain required. [Live site](https://ossify-react.netlify.app/ossify/).
 
-  <br />
-  <br />
+**[prime-gap-symmetry-1b](https://github.com/zay168/prime-gap-symmetry-1b)** — Computational and theoretical investigation of consecutive prime-gap symmetry. Conditional on the Hardy–Littlewood k-tuple conjecture, the density of indices where the next gap exceeds the current one tends to ½; verified on 10⁹ primes to within 0.0024%. Partial formalization in Lean 4. [DOI](https://doi.org/10.5281/zenodo.18294141).
 
-  <!-- Socials - Minimalist -->
-  <p align="center">
-    <a href="mailto:alsarrafzayd@gmail.com">
-      <img src="https://img.shields.io/badge/Email-alsarrafzayd%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.github.com/zay168">
-      <img src="https://img.shields.io/github/followers/zay168?logo=github&style=for-the-badge&color=21262d&labelColor=161b22" alt="Followers" />
-    </a>
-  </p>
+**[Chronos](https://github.com/zay168/Chronos)** — Local-first schedule-management app with a JSON import engine. Monorepo: React frontend, Express API, Prisma-backed storage, TypeScript throughout.
 
-  <br />
+**[spatial-hand-tracker](https://github.com/zay168/spatial-hand-tracker)** — Vision-Pro-style hand-tracking in the browser. Pinch-to-grab with Kalman and One-Euro filters for low-latency smoothing; runs on a plain webcam. [Live demo](https://spatial-hand-tracker.netlify.app).
 
-  <h3 style="font-family: monospace;">> Featured project</h3>
+## Stack
 
-  <p align="center">
-    <a href="https://github.com/zay168/ossify">
-      <img src="https://img.shields.io/badge/ossify-repo%20trust%20doctor-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="ossify" />
-    </a>
-    <a href="https://ossify-react.netlify.app/ossify/">
-      <img src="https://img.shields.io/badge/Live%20Landing-open-21262d?style=for-the-badge&logo=netlify&logoColor=white" alt="Live landing" />
-    </a>
-    <a href="https://github.com/zay168/ossify/releases">
-      <img src="https://img.shields.io/badge/Releases-latest-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Releases" />
-    </a>
-  </p>
+Rust · TypeScript · React · Node.js · Python · Lean 4
 
-  <p align="center" style="max-width: 780px; margin: 0 auto; color: #8b949e; font-family: monospace;">
-    ossify is a Rust CLI that audits repository trust signals, checks workflow hygiene, and scaffolds the missing files that make an open-source project feel ready to adopt.
-  </p>
+## Contact
 
-  <br />
-
-  <!-- Tech Stack - Clean & Serious -->
-  <h3 style="font-family: monospace;">> Technologies</h3>
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git&perline=7&theme=dark" alt="My Skills" />
-    </a>
-  </p>
-
-  <br />
-
-  <!-- Stats - Dracula Theme (Dark/Pro) -->
-  <h3 style="font-family: monospace;">> Metrics</h3>
-
-  <div align="center">
-    <a href="https://github.com/zay168">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=zay168&theme=dracula&hide_border=true&background=0d1117" alt="Streak" height="160" />
-    </a>
-
-  </div>
-
-  <br />
-
-
-  <!-- 3D Contributions -->
-  <h3 style="font-family: monospace;">> 3D Activity</h3>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-
-  <br />
-
-  <p align="center" style="color: #8b949e; font-family: monospace;">
-    // coding the future, one line at a time.
-  </p>
-  
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=&fontSize=0" width="100%" />
-
-</div>
+[alsarrafzayd@gmail.com](mailto:alsarrafzayd@gmail.com)
