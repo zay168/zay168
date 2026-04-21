@@ -4,7 +4,7 @@ High-school student at Collège Sévigné (Paris), passionate about AI and code.
 
 ## Featured projects
 
-**charge-scolaire** — My current main project: an AI layer designed to help students manage their academic workload. The repository is kept **private for now** while the API integrations and authentication surface are hardened against abuse — opening it up would expose API tokens and vendor endpoints before the security model is ready.
+**charge-scolaire** — My current main project. An AI layer built on top of **EcoleDirecte** (a **Pronote** version is in progress) that turns a student's homework, grades, and schedule into a calm, prioritized plan of what actually needs to be tackled next — replacing the platforms' wall of notifications with a single clear view. Kept **private for now** while the API integrations and authentication surface are hardened against abuse — opening the repo would expose vendor endpoints and tokens before the security model is ready.
 
 **[Lucid](https://lucid-irl.netlify.app/)** — A mental-health web app grounded in CBT: capture an anxious thought, lock it away for a chosen delay, then re-evaluate it once you've had time to cool. The AI analysis runs 100% locally — no data ever leaves the device. [Live app](https://lucid-irl.netlify.app/) · source kept private.
 
