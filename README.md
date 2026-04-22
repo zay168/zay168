@@ -1,6 +1,6 @@
 # Zayd Al Sarraf
 
-Seconde parcours Europe at Lycée Sévigné (Paris 5e). I build AI tools, research prototypes, and full-stack web apps — with a particular focus on language models and the kinds of products they make possible.
+I build AI tools, research prototypes, and full-stack web apps — with a particular focus on language models and the kinds of products they make possible.
 
 ## Featured projects
 
