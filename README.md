@@ -8,7 +8,7 @@ I build AI tools, research prototypes, and full-stack web apps — with a partic
 
 **charge-scolaire** — My current main project. An AI layer built on top of **EcoleDirecte** (a **Pronote** version is in progress) that turns a student's homework, grades, and schedule into a calm, prioritized plan of what actually needs to be tackled next — replacing the platforms' wall of notifications with a single clear view. Kept **private for now** while the API integrations and authentication surface are hardened against abuse — opening the repo would expose vendor endpoints and tokens before the security model is ready.
 
-**[prime-gap-symmetry-1b](https://github.com/zay168/prime-gap-symmetry-1b)** — Computational and theoretical investigation of consecutive prime-gap symmetry. Conditional on the Hardy–Littlewood k-tuple conjecture, the density of indices where the next gap exceeds the current one tends to ½; verified on 10⁹ primes to within 0.0024%. Partial formalization in Lean 4. [DOI](https://doi.org/10.5281/zenodo.18294141).
+**[prime-gap-symmetry-1b](https://github.com/zay168/prime-gap-symmetry-1b)** — Computational experiments around consecutive prime-gap comparisons, with reproducible finite checks, residue diagnostics, and a streaming segmented runner for large-scale verification.
 
 **[ossify](https://github.com/zay168/ossify)** — Rust CLI that audits a repository's trust signals and scaffolds the missing files that make an open-source project feel ready to adopt. Ships a native installer with no Rust toolchain required. [Live site](https://ossify-react.netlify.app/ossify/).
 
